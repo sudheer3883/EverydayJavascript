@@ -1,0 +1,1 @@
+Javascript is the scripting and dynamic language used create dynamic webpages
